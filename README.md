@@ -10,5 +10,5 @@ Una colección de funciones auxiliares para trabajar con AWS utilizando Boto3.
    cd aws-boto3-helpers
 
 2. Instala las dependencias:
-```sh 
-pip install -r requirements.txt
+   ```sh 
+   pip install -r requirements.txt
